@@ -1,1 +1,6 @@
-hiii
+<<<<<<< HEAD
+hiii hii
+=======
+hii
+hrllo
+>>>>>>> 1fc171ffe35bbcecf6d7dcefa71f0280f2807af7
